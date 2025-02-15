@@ -6,25 +6,25 @@ test:
 
 # Watch specific sets
 set-1:
-	air -- "set_1"
+	air
 
 set-2:
-	air -- "set_2"
+	air
 
 set-3:
-	air -- "set_3"
+	air
 
 set-4:
-	air -- "set_4"
+	air
 
 set-5:
-	air -- "set_5"
+	air
 
 set-6:
-	air -- "set_6"
+	air
 
 set-7:
-	air -- "set_7"
+	air
 
 set-8:
-	air -- "set_8"
+	air
