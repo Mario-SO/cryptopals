@@ -5,7 +5,7 @@ tmp_dir = "tmp"
 [build]
   cmd = ""
   bin = ""
-  full_bin = "go test ./set_1/... -v"
+  full_bin = "go test ./${SET_NUMBER}/... -v"
   delay = 2000
   exclude_dir = ["assets", "tmp", "vendor", "testdata"]
   exclude_file = []
