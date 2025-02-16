@@ -6,25 +6,25 @@ test:
 
 # Watch specific sets
 set-1:
-	SET_NUMBER=set_1 air
+	SET_NUMBER=set_1 clear && air
 
 set-2:
-	SET_NUMBER=set_2 air
+	SET_NUMBER=set_2 clear && air
 
 set-3:
-	SET_NUMBER=set_3 air
+	SET_NUMBER=set_3 clear && air
 
 set-4:
-	SET_NUMBER=set_4 air
+	SET_NUMBER=set_4 clear && air
 
 set-5:
-	SET_NUMBER=set_5 air
+	SET_NUMBER=set_5 clear && air
 
 set-6:
-	SET_NUMBER=set_6 air
+	SET_NUMBER=set_6 clear && air
 
 set-7:
-	SET_NUMBER=set_7 air
+	SET_NUMBER=set_7 clear && air
 
 set-8:
-	SET_NUMBER=set_8 air
+	SET_NUMBER=set_8 clear && air
